@@ -9,7 +9,7 @@ public class EduMetrics {
        
         System.out.println("===== 👋😊Welcome to EduMetrics👋😊=====");
         System.out.println("===== 📱🧠 CGPA & Waiver Calculator📱🧠  =====");
-        System.out.println("=====Developed By Abed , Esha and Neela=====");
+        System.out.println("=====Developed By Abed Hossain ====");
         
        
         String k = " ";
