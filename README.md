@@ -3,11 +3,8 @@
 ## 📱🧠 Overview
 EduMetrics is a Java-based educational tool designed to help students calculate their CGPA (Cumulative Grade Point Average) and determine tuition waiver eligibility. The application supports both undergraduate and graduate students with different waiver criteria.
 
-## 👨‍💻 Developers
-- Abed
-- Esha
-- Neela
-
+## 👨‍💻 Developer Abed Hossain
+  
 ## ✨ Features
 - **User Authentication**: Simple password-based login system
 - **Student Type Classification**: Supports both undergraduate and graduate students
