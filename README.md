@@ -43,7 +43,7 @@ EduMetrics is a Java-based educational tool designed to help students calculate 
 ```
 ===== 👋😊Welcome to EduMetrics👋😊=====
 ===== 📱🧠 CGPA & Waiver Calculator📱🧠  =====
-=====Developed By Abed , Esha and Neela=====
+=====Developed By Abed Hossain=====
 
 Enter your password: seu
 
